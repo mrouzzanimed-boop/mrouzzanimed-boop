@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Data Analytics for Infrastructure Projects (Road)  | Civil Engineer:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>DData Analytics (Power bi)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - 
 
