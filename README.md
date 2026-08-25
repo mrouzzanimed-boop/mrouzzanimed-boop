@@ -5,7 +5,8 @@
 - <b>Data Analytics (Power bi)</b>
 
 - (https://github.com/joshmadakor1/Algorithms-Practice)](https://github.com/mrouzzanimed-boop/2026-)
--  https://github.com/mrouzzanimed-boop/Tutorial-Dax/edit/main/README.md 
+-  https://github.com/mrouzzanimed-boop/Tutorial-Dax/edit/main/README.md
+-  https://github.com/mrouzzanimed-boop/HR-DASHBOARD
 ## 📫 Contact Me
 
 - **LinkedIn:** [linkedin.com/in/med-ouzzani](https://www.linkedin.com/in/med-ouzzani/)
