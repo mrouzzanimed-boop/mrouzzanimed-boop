@@ -1,7 +1,17 @@
-## Hi there 👋
+<h1>Hi, I'm Mohammed Ouzzani !
 
-<!--
-**mrouzzanimed-boop/mrouzzanimed-boop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Data Analytics for Infrastructure Projects (Road)  | Civil Engineer:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- 
+
+## 📫 Contact Me
+
+- **LinkedIn:** [linkedin.com/in/med-ouzzani](https://www.linkedin.com/in/med-ouzzani/)
+- **Email:** mrouzzani.mmed@gmail.com
+
+Open to remote data analytics opportunities, especially in infrastructure and road construction .
 
 Here are some ideas to get you started:
 
